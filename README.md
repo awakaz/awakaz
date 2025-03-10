@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awakaz
 - 👀 I’m interested in coding, reading and learning languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and SQL
 
 
 <!---
